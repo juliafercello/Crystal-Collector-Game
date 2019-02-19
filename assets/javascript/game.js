@@ -20,7 +20,7 @@ var crystalCollector = {
         $(".gem").each(function (index) {
             var gemValue = crystalCollector.generateRandomNumber(crystalCollector.gemMinRange, crystalCollector.gemMaxRange);
             $(this).attr("data-gemValue", gemValue);
-            console.log("gem: " + index + " " + gemValue);
+            //console.log("gem: " + index + " " + gemValue);
         });
     },
 

@@ -1,4 +1,4 @@
-# unit-4-game
+# Crystal-Collector-Game
 Crystal Collector
 
 # Project OVerview 
